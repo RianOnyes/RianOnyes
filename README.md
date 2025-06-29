@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Web and Mobile Projects**
 - 🌱 I’m currently learning **React Native, Laravel, and CodeIgniter**
 - 💬 Ask me about **PHP, JavaScript, MySQL, Android**
-- 📫 How to reach me: **rian@example.com**
+- 📫 How to reach me: **rianhasannudin12@gmail.com**
 - ⚡ Fun fact: I love learning by doing and helping others!
 
 ---
